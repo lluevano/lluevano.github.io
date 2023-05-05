@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: "luisluevanog"
   username               : &twitter
 facebook:
   username               :
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Luis S. Luévano, PhD"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "PhD in Computer Science, focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices. My latest research works are on Face Anti-Spoofing, and Privacy on Trusted Execution Environments and Decentralized Machine Learning."
+  location         : "Rennes, France"
+  employer         : "Inria"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=mo8ddGYAAAAJ&hl=en"
+  email            : "luisluevano@outlook.com"
+  researchgate     : "https://www.researchgate.net/profile/Luis-Luevano-Garcia"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "lluevano"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/luisluevanog/"
+  orcid            : "http://orcid.org/0000-0001-5784-0826"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "luisluevanog"
   vine             :
   weibo            :
   xing             :
