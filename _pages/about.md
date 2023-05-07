@@ -12,11 +12,11 @@ PhD in Computer Science, focused in Computer Vision, Biometrics, Privacy, and De
 
 Latest research
 ======
+
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% assign post = site.publications[-1] %}
+{% include archive-single.html %}
 
 
 Education
