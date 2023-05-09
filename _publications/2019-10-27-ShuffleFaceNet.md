@@ -14,6 +14,7 @@ The recent success of convolutional neural networks has led to the development o
 
 Recommended citation: Y. Martindez-Díaz, L. S. Luevano, H. Mendez-Vazquez, M. Nicolas-Diaz, L. Chang and M. Gonzalez-Mendoza, "ShuffleFaceNet: A Lightweight Face Architecture for Efficient and Highly-Accurate Face Recognition," <em>2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW)</em>, Seoul, Korea (South), 2019, pp. 2721-2728, doi: 10.1109/ICCVW.2019.00333.
 
+Latex:
 <pre>
 @INPROCEEDINGS{9022220,
   author={Martindez-Díaz, Yoanna and Luevano, Luis S. and Mendez-Vazquez, Heydi and Nicolas-Diaz, Miguel and Chang, Leonardo and Gonzalez-Mendoza, Miguel},
