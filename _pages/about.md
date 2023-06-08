@@ -40,9 +40,10 @@ Education
   }
   .no_border div{
     display:inline-grid;
+    align-item:center;
   }
   .no_border img{
-    width: 50%;
+    width: 40%;
     height:auto;
   }
 </style>
