@@ -17,7 +17,7 @@ Education
 | <img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"> | M.Sc. in Computer Science   | Aug. 2016 - May 2018 |
 | <img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png">     | Ph.D. in Computer Science   | Jan 2019 - Dec 2022  |
 
-<table class="no_border";>
+<table class="no_border">
     <tbody>
         <tr>
             <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"></td>
@@ -26,6 +26,7 @@ Education
         </tr>
     </tbody>
 </table>
+
 <style>
   .no_border, .no_border tr, .no_border td{
     border: none;
