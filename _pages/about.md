@@ -16,17 +16,17 @@ Education
 <table class="no_border">
     <tbody>
       <tr>
-            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png"></br></br>State of Mexico, Mexico</div></td>
+            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png">State of Mexico, Mexico</div></td>
             <td>Ph.D. in Computer Science</td>
             <td>Jan 2019 - Dec 2022</td>
         </tr>
         <tr>
-            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"></br></br>New Jersey, USA</div></td>
+            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png">New Jersey, USA</div></td>
             <td>M.Sc. in Computer Science</td>
             <td>Aug. 2016 - May 2018</td>
         </tr>
         <tr>
-            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png" ></br></br>State of Mexico, Mexico</div></td>
+            <td><div><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png" >State of Mexico, Mexico</div></td>
             <td>B.Sc. Computer Science and Technology</td>
             <td>Aug 2011 - Dec 2015</td>
         </tr>
@@ -37,6 +37,9 @@ Education
   .no_border, .no_border tr, .no_border td{
     border: none;
     text-align:center;
+  }
+  .no_border div{
+    display:inline-grid;
   }
 </style>
 
