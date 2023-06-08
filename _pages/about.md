@@ -13,16 +13,22 @@ PhD in Computer Science, focused in Computer Vision, Biometrics, Privacy, and De
 Education
 ======
 
-|:--------------------------------------------------------------------------------------------------------:|:---------------------------:|:--------------------:|
-| <img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"> | M.Sc. in Computer Science   | Aug. 2016 - May 2018 |
-| <img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png">     | Ph.D. in Computer Science   | Jan 2019 - Dec 2022  |
-
 <table class="no_border">
     <tbody>
+      <tr>
+            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png"></br></br>State of Mexico, Mexico</td>
+            <td>Ph.D. in Computer Science</td>
+            <td>Jan 2019 - Dec 2022</td>
+        </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"></td>
-            <td>Test</td>
-            <td>Test2</td>
+            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"></br></br>New Jersey, USA</td>
+            <td>M.Sc. in Computer Science</td>
+            <td>Aug. 2016 - May 2018</td>
+        </tr>
+        <tr>
+            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png"></br></br>State of Mexico, Mexico</td>
+            <td>B.Sc. Computer Science and Technology</td>
+            <td>Aug 2011 - Dec 2015</td>
         </tr>
     </tbody>
 </table>
@@ -31,7 +37,6 @@ Education
   .no_border, .no_border tr, .no_border td{
     border: none;
     text-align:center;
-    width: min-content;
   }
 </style>
 
