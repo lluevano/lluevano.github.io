@@ -41,6 +41,10 @@ Education
   .no_border div{
     display:inline-grid;
   }
+  .no_border img{
+    width: 50%;
+    height:auto;
+  }
 </style>
 
 Latest research
