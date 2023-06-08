@@ -4,7 +4,7 @@ excerpt: "Base code with available implementation of BinaryFaceNet, an efficient
 collection: portfolio
 ---
 
-My ultra-efficient approach for Very Low Resolution Face Recognition using Binary Neural Networks (BNN), named BinaryFaceNet, is designed for maximizing efficiency performance, while having competent face identification and verification performance on state-of-the-art benchmark datasets for the Very Low Resolution Face Recognition problem, compared to state-of-the-art BNNs. This is one of the outcomes of my PhD thesis project.
+My ultra-efficient approach for Very Low Resolution Face Recognition using Binary Neural Networks (BNN), named BinaryFaceNet, is designed for maximizing efficiency performance, while having competent face identification and verification performance on state-of-the-art benchmark datasets for the Very Low Resolution Face Recognition problem, compared to state-of-the-art BNNs. This is one of the outcomes of my PhD thesis project. The code was developed on Python using Keras over TensorFlow and the LARQ framework.
 
 See more at: </br>
 [Link to Repository](https://github.com/lluevano/insightface_larq_keras) </br>
