@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-PhD in Computer Science, focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Research Fellow at Tecnológico de Monterrey. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices. My latest research works are on Face Anti-Spoofing, and Privacy on Trusted Execution Environments and Decentralized Machine Learning.
+Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Research Fellow at Inria at the University of Rennes. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices. My latest research works are on Face Anti-Spoofing, and Privacy on Trusted Execution Environments and Decentralized Machine Learning.
 
 Education
 ======
@@ -16,19 +16,19 @@ Education
 <table class="no_border">
     <tbody>
       <tr>
-            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png"></td>
+            <td><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
             <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
             <td>Ph.D. in Computer Science</td>
             <td>Jan 2019 - Dec 2022</td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/stevens_logo.png"></td>
+            <td><a href="https://www.stevens.edu/"><img src="/images/stevens_logo.png"></a></td>
             <td><div>Stevens Institute of Technology</div><div>New Jersey, USA</div></td>
             <td>M.Sc. in Computer Science</td>
             <td>Aug. 2016 - May 2018</td>
         </tr>
         <tr>
-            <td><img src="https://raw.githubusercontent.com/lluevano/lluevano.github.io/master/images/tec_logo.png"></td>
+            <td><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
             <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
             <td>B.Sc. Computer Science and Technology</td>
             <td>Aug 2011 - Dec 2015</td>
