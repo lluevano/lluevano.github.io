@@ -52,15 +52,15 @@ Work experience
 ======
 <table class="no_border">
     <tbody>
-      <tr><td><a href="https://www.inria.fr/"><img src="/images/inr_logo_rouge.png"></a></td>
+      <tr><td><a href="https://www.inria.fr/"><img src="/images/inr_logo_rouge.png" width="70%"></a></td>
             <td><div>Inria at the University of Rennes</div><div>Rennes, France</div></td>
             <td>Postdoctoral Researcher, WIDE team</td>
             <td>May 2023 - Current</td>
         </tr>
         <tr>
           <td></td>
-          <td>Collaborated on the European Union-funded SOTERIA project. Research work focused on Privacy
-on Decentralized Machine Learning and Trusted Execution Environments for data-centric scenarios.</td>
+          <td><p>Collaborated on the European Union-funded SOTERIA project. Research work focused on Privacy
+on Decentralized Machine Learning and Trusted Execution Environments for data-centric scenarios.</p></td>
         </tr>
         <tr>
             <td><a href="https://www.stevens.edu/"><img src="/images/stevens_logo.png"></a></td>
