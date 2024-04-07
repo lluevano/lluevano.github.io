@@ -10,6 +10,17 @@ redirect_from:
 
 Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Research Fellow at Inria at the University of Rennes. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices. My latest research works are on Face Anti-Spoofing, and Privacy on Trusted Execution Environments and Decentralized Machine Learning.
 
+Latest research
+======
+
+{% include base_path %}
+
+{% assign post = site.publications[-1] %}
+{% include archive-single.html %}
+
+{% assign post = site.publications[-2] %}
+{% include archive-single.html %}
+
 Education
 ======
 
@@ -47,14 +58,4 @@ Education
   }
 </style>
 
-Latest research
-======
-
-{% include base_path %}
-
-{% assign post = site.publications[-1] %}
-{% include archive-single.html %}
-
-{% assign post = site.publications[-2] %}
-{% include archive-single.html %}
 
