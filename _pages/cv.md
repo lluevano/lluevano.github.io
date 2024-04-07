@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 Objective
-To make use of my strong analytical skills along with my graduate experience in modern Artificial Intelligence techniques, solving the IT industry’s most challenging problems involving complex technology projects of high social and economic impact.
+======
+To make use of my strong analytical skills along with my graduate experience in modern Artificial Intelligence techniques, solving the IT industry’s most challenging problems involving research for complex technology projects of high social and economic impact.
 
 {% include base_path %}
 
@@ -17,9 +18,9 @@ Work experience
 <table class="no_border">
     <tbody>
       <tr><td rowspan="2"><a href="https://www.inria.fr/"><img src="/images/inr_logo_rouge.png"></a></td>
-            <td><div>Inria at the University of Rennes</div><div>Rennes, France</div></td>
-            <td>Postdoctoral Researcher, WIDE team</td>
-            <td>May 2023 - Current</td>
+            <td><b><div>Inria</div><div>Rennes, France</div></b></td>
+            <td><b>Postdoctoral Researcher, WIDE team</b></td>
+            <td><b>May 2023 - Current</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Collaborated on the European Union-funded SOTERIA project. Research work focused on Privacy
@@ -27,17 +28,17 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         </tr>
         <tr>
             <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
-            <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
-            <td>Postdoctoral Researcher</td>
-            <td>Feb 2023 - July 2023</td>
+            <td><div><b>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
+            <td><b>Postdoctoral Researcher</b></td>
+            <td><b>Feb 2023 - July 2023</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Research work focused on Computer Vision models for Smart Cities in applications such as surveillance, mobility, and health. Implemented models for real-time face recognition, face anti-spoofing, and crowd counting on PyTorch. Published one conference article.</p></td>
         </tr>
-        <tr><td rowspan="2"><a href="https://www.inria.fr/"><img src="/images/idiap_logo.png"></a></td>
-            <td><div>Idiap Research Institute</div><div>Valais, Switzerland</div></td>
-            <td>Research Intern, Biometrics Security & Privacy Group</td>
-            <td>August 2022 - December 2022</td>
+        <tr><td><a href="https://www.inria.fr/"><img src="/images/idiap_logo.png"></a></td>
+            <td><b><div>Idiap Research Institute</div><div>Valais, Switzerland</div></b></td>
+            <td><b>Research Intern, Biometrics Security & Privacy Group</b></td>
+            <td><b>August 2022 - December 2022</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
