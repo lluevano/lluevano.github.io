@@ -1,10 +1,10 @@
 ---
-title: "Computer Science Teaching Assistance"
+title: "Computer Science Teaching Assistant at Tecnológico de Monterrey (2020-2022)"
 collection: teaching
 type: "Undergraduate & Graduate courses"
 permalink: /teaching/2022-TA-Tec
 venue: "Tecnológico de Monterrey, Campus State of Mexico, Computer Science Department"
-date: 2021-12-05
+date: 2022-12-05
 location: "State of Mexico, Mexico"
 ---
 
