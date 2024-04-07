@@ -28,14 +28,14 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         </tr>
         <tr>
             <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
-            <td><div><b>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
+            <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
             <td><b>Postdoctoral Researcher</b></td>
             <td><b>Feb 2023 - July 2023</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Research work focused on Computer Vision models for Smart Cities in applications such as surveillance, mobility, and health. Implemented models for real-time face recognition, face anti-spoofing, and crowd counting on PyTorch. Published one conference article.</p></td>
         </tr>
-        <tr><td><a href="https://www.inria.fr/"><img src="/images/idiap_logo.png"></a></td>
+        <tr><td rowspan="2"><a href="https://www.idiap.ch/"><img src="/images/idiap_logo.png"></a></td>
             <td><b><div>Idiap Research Institute</div><div>Valais, Switzerland</div></b></td>
             <td><b>Research Intern, Biometrics Security & Privacy Group</b></td>
             <td><b>August 2022 - December 2022</b></td>
