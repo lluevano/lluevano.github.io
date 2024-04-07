@@ -22,27 +22,24 @@ Work experience
             <td>May 2023 - Current</td>
         </tr>
         <tr>
-          <td></td>
           <td colspan="3"><p>Collaborated on the European Union-funded SOTERIA project. Research work focused on Privacy
 on Decentralized Machine Learning and Trusted Execution Environments for data-centric scenarios.</p></td>
         </tr>
         <tr>
-            <td><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
             <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
             <td>Postdoctoral Researcher</td>
             <td>Feb 2023 - July 2023</td>
         </tr>
         <tr>
-          <td></td>
           <td colspan="3"><p>Research work focused on Computer Vision models for Smart Cities in applications such as surveillance, mobility, and health. Implemented models for real-time face recognition, face anti-spoofing, and crowd counting on PyTorch. Published one conference article.</p></td>
         </tr>
-        <tr><td><a href="https://www.inria.fr/"><img src="/images/idiap_logo.png"></a></td>
+        <tr><td rowspan="2"><a href="https://www.inria.fr/"><img src="/images/idiap_logo.png"></a></td>
             <td><div>Idiap Research Institute</div><div>Valais, Switzerland</div></td>
             <td>Research Intern, Biometrics Security & Privacy Group</td>
             <td>August 2022 - December 2022</td>
         </tr>
         <tr>
-          <td></td>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
         </tr>
     </tbody>
@@ -92,7 +89,13 @@ Education
     text-align:left;
   }
 </style>
-  
+
+Publication list
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills
 ======
 * Personal
@@ -110,12 +113,6 @@ Skills
   * OpenCV, PyTorch, TensorFlow, Keras, MxNet, Trax, Pandas, Sklearn, SciPy, NumPy.
 * Languages:
   * Spanish (native), English (proficient, TOEFL iBT score: 101/120 points), French (fluent), Japanese (fluent), German (basic)
-
-Publication list
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!-- Talks
 ======
