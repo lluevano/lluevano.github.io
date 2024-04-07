@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Luis Santiago Luévano García, PhD"
+title                    : "Luis Santiago Luévano García"
 title_separator          : "-"
 name                     : &name "Luis Santiago Luévano García"
 description              : &description "PhD Computer Science | Inria & Tecnológico de Monterrey | AI, Computer Vision, Biometrics, Privacy"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luis S. Luévano, PhD"
   avatar           : "profile.png"
-  bio              : "PhD in Computer Science. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning."
+  bio              : "Postdoctoral Researcher at Inria. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning."
   location         : "Rennes, France"
   employer         : "Inria"
   pubmed           : 
