@@ -7,6 +7,8 @@ author_profile: true
 
 See my publication list also on <u><a href="https://scholar.google.com/citations?user=mo8ddGYAAAAJ">my Google Scholar profile</a>.</u>
 
+# Peer-reviewed publications
+
 {% include base_path %}
 
 {% for post in site.publications reversed %}
