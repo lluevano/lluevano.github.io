@@ -12,9 +12,9 @@ When storing face biometric samples in accordance with ISO/IEC 19794 as JPEG2000
 
 [Download paper here](https://doi.org/10.1109/ICPR56361.2022.9956664)
 
-Recommended citation: H. Hofbauer, Y. Martínez-Díaz, L. S. Luevano, H. Méndez-Vázquez and A. Uhl, "Utilizing CNNs for Cryptanalysis of Selective Biometric Face Sample Encryption," <em>2022 26th International Conference on Pattern Recognition (ICPR)<em>, Montreal, QC, Canada, 2022, pp. 892-899, doi: 10.1109/ICPR56361.2022.9956664.
+<!-- Recommended citation: H. Hofbauer, Y. Martínez-Díaz, L. S. Luevano, H. Méndez-Vázquez and A. Uhl, "Utilizing CNNs for Cryptanalysis of Selective Biometric Face Sample Encryption," <em>2022 26th International Conference on Pattern Recognition (ICPR)<em>, Montreal, QC, Canada, 2022, pp. 892-899, doi: 10.1109/ICPR56361.2022.9956664. -->
 
-Latex:
+Latex citation:
 <pre>
 @INPROCEEDINGS{Hofbauer-CNN-Cryptanalysis-ICPR-2022,
   author={Hofbauer, Heinz and Martínez-Díaz, Yoanna and Luevano, Luis Santiago and Méndez-Vázquez, Heydi and Uhl, Andreas},

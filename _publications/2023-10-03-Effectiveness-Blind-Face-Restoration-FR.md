@@ -12,9 +12,9 @@ This paper studies the effectiveness of Blind Face Restoration methods to boost 
 
 [Download paper here](https://link.springer.com/chapter/10.1007/978-3-031-49552-6_39)
 
-Recommended citation: Martínez-Díaz, Y., Luévano, L.S., Méndez-Vázquez, H. (2024). Effectiveness of Blind Face Restoration to Boost Face Recognition Performance at Low-Resolution Images. In: Hernández Heredia, Y., Milián Núñez, V., Ruiz Shulcloper, J. (eds) Progress in Artificial Intelligence and Pattern Recognition. IWAIPR 2023. Lecture Notes in Computer Science, vol 14335. Springer, Cham. https://doi.org/10.1007/978-3-031-49552-6_39
+<!-- Recommended citation: Martínez-Díaz, Y., Luévano, L.S., Méndez-Vázquez, H. (2024). Effectiveness of Blind Face Restoration to Boost Face Recognition Performance at Low-Resolution Images. In: Hernández Heredia, Y., Milián Núñez, V., Ruiz Shulcloper, J. (eds) Progress in Artificial Intelligence and Pattern Recognition. IWAIPR 2023. Lecture Notes in Computer Science, vol 14335. Springer, Cham. https://doi.org/10.1007/978-3-031-49552-6_39 -->
 
-Latex:
+Latex citation:
 <pre>
 @InProceedings{10.1007/978-3-031-49552-6_39,
 author="Mart{\'i}nez-D{\'i}az, Yoanna

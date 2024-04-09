@@ -12,9 +12,9 @@ Given the current COVID-19 pandemic, most people wear a mask to effectively prev
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2021.3135255)
 
-Recommended citation: Y. Martínez-Díaz, H. Méndez-Vázquez, L. S. Luevano, M. Nicolás-Díaz, L. Chang and M. González-Mendoza, "Towards Accurate and Lightweight Masked Face Recognition: An Experimental Evaluation," in <em>IEEE Access</em>, vol. 10, pp. 7341-7353, 2022, doi: 10.1109/ACCESS.2021.3135255.
+<!-- Recommended citation: Y. Martínez-Díaz, H. Méndez-Vázquez, L. S. Luevano, M. Nicolás-Díaz, L. Chang and M. González-Mendoza, "Towards Accurate and Lightweight Masked Face Recognition: An Experimental Evaluation," in <em>IEEE Access</em>, vol. 10, pp. 7341-7353, 2022, doi: 10.1109/ACCESS.2021.3135255. -->
 
-Latex:
+Latex citation:
 <pre>
 @ARTICLE{Martinez-Diaz_Lightweight_Masked_Face_Recognition_IEEE_Access,
   author={Martínez-Díaz, Yoanna and Méndez-Vázquez, Heydi and Luevano, Luis S. and Nicolás-Díaz, Miguel and Chang, Leonardo and González-Mendoza, Miguel},

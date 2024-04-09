@@ -8,7 +8,7 @@ tags:
   - Idiap
 ---
 
-The EAB & CiTER Biometrics Workshop was held at Idiap in April 2023. I had the privilege to attend with one of my PhD Thesis supervisor, Dr. Miguel González. At a recent research workshop, I found quite interesting the discussions on Biometric Template Protection—a topic previously unexplored by me. Discussions around ISO regulations concerning biometric templates and their properties were particularly useful to me, and also presenting a promising avenue for future exploration.
+The EAB & CiTER Biometrics Workshop was held at Idiap in April 2023. I had the privilege to attend with one of my PhD Thesis supervisor, Dr. Miguel González. At a recent research workshop, I found quite interesting the discussions on Biometric Template Protection—a topic previously unexplored by me. Discussions around ISO regulations concerning biometric templates and their properties were particularly useful to me, and also presented a promising avenue for future exploration.
 
 Furthermore, the Biometrics Security & Privacy (BSP) Group at Idiap showed their work on face recognition and anti-spoofing from Dr. Anjith George, approaches in synthetic face generation for recognition purposes from Dr. Christophe Écabert, and the work on DeepFake detection from Dr. Pavel Korshunov.
 

@@ -12,9 +12,9 @@ Detecting spoof faces is crucial in ensuring the robustness of face-based identi
 
 [Download paper here](https://openaccess.thecvf.com/content/CVPR2023W/FAS/html/Martinez-Diaz_Exploring_the_Effectiveness_of_Lightweight_Architectures_for_Face_Anti-Spoofing_CVPRW_2023_paper.html)
 
-Recommended citation: Yoanna Martínez-Díaz, Heydi Méndez-Vázquez, Luis S. Luevano, Miguel Gonzalez-Mendoza; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 6391-6401
+<!-- Recommended citation: Yoanna Martínez-Díaz, Heydi Méndez-Vázquez, Luis S. Luevano, Miguel Gonzalez-Mendoza; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 6391-6401 -->
 
-Latex:
+Latex citation:
 <pre>
 @InProceedings{Martinez-Diaz_2023_CVPR,
     author    = {Mart{\'\i}nez-D{\'\i}az, Yoanna and M\'endez-V\'azquez, Heydi and Luevano, Luis S. and Gonzalez-Mendoza, Miguel},

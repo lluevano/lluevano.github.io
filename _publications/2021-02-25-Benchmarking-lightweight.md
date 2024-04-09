@@ -12,9 +12,9 @@ This paper studies the impact of lightweight face models on real applications. L
 
 [Download paper here](https://doi.org/10.1007/s10462-021-09974-2)
 
-Recommended citation: Martínez-Díaz, Y., Nicolás-Díaz, M., Méndez-Vázquez, H., Luevano, L.S. <i>et al.</i> Benchmarking lightweight face architectures on specific face recognition scenarios. <i>Artif Intell Rev</i> <b>54</b>, 6201–6244 (2021). https://doi.org/10.1007/s10462-021-09974-2
+<!-- Recommended citation: Martínez-Díaz, Y., Nicolás-Díaz, M., Méndez-Vázquez, H., Luevano, L.S. <i>et al.</i> Benchmarking lightweight face architectures on specific face recognition scenarios. <i>Artif Intell Rev</i> <b>54</b>, 6201–6244 (2021). https://doi.org/10.1007/s10462-021-09974-2 -->
 
-Latex:
+Latex citation:
 <pre>
 @article{Martinez-Diaz2021AIRE,
 author = {Martínez-Díaz, Yoanna and Nicolás-Díaz, Miguel and Vazquez, Heydi and Luévano García, Luis and Chang, Leonardo and Gonzalez-Mendoza, Miguel and Sucar, Luis},

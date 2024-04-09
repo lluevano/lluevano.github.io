@@ -14,9 +14,9 @@ In the past decade, research in the face recognition area has advanced tremendou
 
 [Download paper here](https://doi.org/10.1109/ACCESS.2021.3080712)
 
-Recommended citation: L. S. Luevano, L. Chang, H. Méndez-Vázquez, Y. Martínez-Díaz and M. González-Mendoza, "A Study on the Performance of Unconstrained Very Low Resolution Face Recognition: Analyzing Current Trends and New Research Directions," in <em>IEEE Access</em>, vol. 9, pp. 75470-75493, 2021, doi: 10.1109/ACCESS.2021.3080712.
+<!-- Recommended citation: L. S. Luevano, L. Chang, H. Méndez-Vázquez, Y. Martínez-Díaz and M. González-Mendoza, "A Study on the Performance of Unconstrained Very Low Resolution Face Recognition: Analyzing Current Trends and New Research Directions," in <em>IEEE Access</em>, vol. 9, pp. 75470-75493, 2021, doi: 10.1109/ACCESS.2021.3080712. -->
 
-Latex:
+Latex citation:
 <pre>
 @ARTICLE{Luevano_VLR_FR_Survey_IEEE_Access,
   author={Luevano, Luis S. and Chang, Leonardo and Méndez-Vázquez, Heydi and Martínez-Díaz, Yoanna and González-Mendoza, Miguel},

@@ -12,9 +12,9 @@ Typically, real-world requirements to deploy face recognition models in unconstr
 
 [Download paper here](https://doi.org/10.1109/ICPR48806.2021.9412280)
 
-Recommended citation: Y. Martínez-Díaz, H. Méndez-Vázquez, L. S. Luevano, L. Chang and M. Gonzalez-Mendoza, "Lightweight Low-Resolution Face Recognition for Surveillance Applications," <em>2020 25th International Conference on Pattern Recognition (ICPR)</em>, Milan, Italy, 2021, pp. 5421-5428, doi: 10.1109/ICPR48806.2021.9412280.
+<!-- Recommended citation: Y. Martínez-Díaz, H. Méndez-Vázquez, L. S. Luevano, L. Chang and M. Gonzalez-Mendoza, "Lightweight Low-Resolution Face Recognition for Surveillance Applications," <em>2020 25th International Conference on Pattern Recognition (ICPR)</em>, Milan, Italy, 2021, pp. 5421-5428, doi: 10.1109/ICPR48806.2021.9412280. -->
 
-Latex:
+Latex citation:
 <pre>
 @INPROCEEDINGS{Martinez-Diaz_Lightweight_LR_FR_Surv_ICPR_2020,
   author={Martínez-Díaz, Yoanna and Méndez-Vázquez, Heydi and Luevano, Luis S. and Chang, Leonardo and Gonzalez-Mendoza, Miguel},
