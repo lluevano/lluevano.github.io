@@ -6,7 +6,7 @@ excerpt: "This paper studies the effectiveness of Blind Face Restoration methods
 date: 2023-10-03
 venue: 'International Workshop on Artificial Intelligence and Pattern Recognition'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-49552-6_39'
-citation: 'Yoanna Martínez-Díaz, Luis S. Luevano, Heydi Méndez-Vázquez; Progress in Artificial Intelligence and Pattern Recognition. IWAIPR 2023. Lecture Notes in Computer Science, vol 14335. Springer, Cham. https://doi.org/10.1007/978-3-031-49552-6_39'
+citation: 'Yoanna Martínez-Díaz, Luis S. Luevano, Heydi Méndez-Vázquez. "Effectiveness of Blind Face Restoration to Boost Face Recognition Performance at Low-Resolution Images". Progress in Artificial Intelligence and Pattern Recognition. IWAIPR 2023. Lecture Notes in Computer Science, vol 14335. Springer, Cham. https://doi.org/10.1007/978-3-031-49552-6_39'
 ---
 This paper studies the effectiveness of Blind Face Restoration methods to boost the performance of face recognition systems on low-resolution images. We investigate the use of three blind face restoration techniques, which have demonstrated impressive results in generating realistic high-resolution face images. Three state-of-the-art face recognition methods were selected to assess the impact of using the generated high-resolution images on their performance. Our analysis includes both, synthesized and native low-resolution images. The conducted experimental evaluation show that this is still an open research problem.
 
