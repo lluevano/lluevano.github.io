@@ -17,11 +17,13 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 <details>
 <summary>
 
-## Peer-reviewed extended abstracts
+<h2>Peer-reviewed extended abstracts</h2>
 
 </summary>
 
-* Luis S. Luevano, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez. Exploring the Potential for Real-Time Vision Transformer-Level Precision on Face Recognition Scenarios through Binarization on Embedded Systems. CVPRW 2023 - IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, Jun 2023, Vancouver, Canada. 2023. ffhal-04393662f
+<ul>
+<li>Luis S. Luevano, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez. Exploring the Potential for Real-Time Vision Transformer-Level Precision on Face Recognition Scenarios through Binarization on Embedded Systems. CVPRW 2023 - IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops, Jun 2023, Vancouver, Canada. 2023. ffhal-04393662f</li>
+</ul>
 
 </details>
 
