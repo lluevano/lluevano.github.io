@@ -19,7 +19,7 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if current_year != year %} 
-    <h2 id="{{ year | slugify }}" class="archive__subtitle" itemprop="headline">{{ year | markdownify }}</h2>
+## {{ year | markdownify }}
     {% assign current_year = year %}
   {% endif %}
   {% include archive-single.html %}
