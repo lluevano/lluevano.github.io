@@ -10,8 +10,7 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 <details> 
 <summary> <h2>Latest pre-prints</h2> </details>
 
-* One
-* Two
+Testing
 
 </details> 
 
@@ -22,7 +21,7 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 {% assign current_year = '0' %}
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | '%Y' }}{% endcapture %}
-  {% if current_year == year %} 
+  {% if current_year != year %} 
     <h3> {{ year }} </h3>
     {% assign current_year = year %}
   {% endif %}
