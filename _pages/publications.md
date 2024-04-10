@@ -7,12 +7,9 @@ author_profile: true
 
 See my publication list also on <u><a href="https://scholar.google.com/citations?user=mo8ddGYAAAAJ">my Google Scholar profile</a>.</u>
 
-<details> 
-<summary> <h2>Latest pre-prints</h2> </summary>
+## Latest pre-prints
 
-*Testing*
-
-</details> 
+* My publication
 
 ## Peer-reviewed publications
 
@@ -22,7 +19,7 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 {% for post in site.publications reversed %}
   {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
   {% if current_year != year %} 
-    <h3> {{ year }} </h3>
+    <h2 id="{{ year | slugify }}" class="archive__subtitle" itemprop="headline">{{ year }}</h2>
     {% assign current_year = year %}
   {% endif %}
   {% include archive-single.html %}
