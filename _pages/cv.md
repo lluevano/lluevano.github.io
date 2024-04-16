@@ -38,10 +38,25 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         <tr><td rowspan="2"><a href="https://www.idiap.ch/"><img src="/images/idiap_logo.png"></a></td>
             <td><b><div>Idiap Research Institute</div><div>Valais, Switzerland</div></b></td>
             <td><b>Research Intern, Biometrics Security & Privacy Group</b></td>
-            <td><b>August 2022 - December 2022</b></td>
+            <td><b>Aug 2022 - Dec 2022</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
+        </tr>
+        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/idiap_logo.png"></a></td>
+            <td><b><div>Dell Latin America</div><div>Mexico City, Mexico</div></b></td>
+            <td><b>Sr. Analyst, Global Demand & Supply Chain Operations</b></td>
+            <td><b>May 2016 - Aug 2016</b></td>
+        </tr>
+        <tr>
+          <td colspan="3"><p>Successfully provided inventory visibility/availability to Sales & Support Teams, coordinated order entry support and production availability against inventory forecast to Sales.</p></td>
+        </tr>
+        <tr>
+            <td><b>Intern, Enterprise Merchandising Operations</b></td>
+            <td><b>Feb 2015 – May 2016</b></td>
+        </tr>
+        <tr>
+          <td colspan="3"><p>Positioned enterprise Servers, Storage and Networking products and generated demand in their respective road to market. Launched successful promotions for Enterprise solutions.</p></td>
         </tr>
     </tbody>
 </table>
@@ -92,7 +107,7 @@ Education
     text-align:center;
   }
   .no_border img{
-    width: 60%;
+    max-width: 150px;
     height:auto;
   }
   .no_border td p{
