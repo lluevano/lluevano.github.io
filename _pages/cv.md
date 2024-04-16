@@ -108,7 +108,7 @@ Education
     text-align:center;
   }
   .no_border img{
-    max-width: 150px;
+    max-width: 130px;
     height:auto;
   }
   .no_border td p{
