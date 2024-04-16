@@ -63,7 +63,7 @@ News:
 ======
 
 - **2024-04 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
-  - See paper: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
+  - See more: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
 - **2024-01 Interview at Tec Sounds radio!**
 - **2023-12 Article at proceedings of the IWAPR out now!**
   - See more at: [Effectiveness of Blind Face Restoration to Boost Face Recognition Performance at Low-Resolution Images](publication/2023-10-03-Effectiveness-Blind-Face-Restoration-FR)
@@ -72,7 +72,7 @@ News:
 - **2023-11 Received the 2nd place of the "José Negrete Martínez" Award for Best Doctoral Thesis, at MICAI 2023, by the Mexican Society for Artificial Intelligence!**
 - **2023-10 Presented poster of our Extended Abstract on Efficient ViTs for Face Recogntion at the LXAI Workshop at ICCV 2023!**
   - See the poster [here](files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf)
-- **2023-05 Joined the WIDE team at Inria at the University of Rennes in France!**
+- **2023-05 Joined the WIDE team at Inria at the University of Rennes in France as a Postdoctoral Researcher!**
 - **2023-04 Accepted research article at the 4th Face Anti-Spoofing Workshop and Challenge @ CVPR2023!**
   - See more details here: [Exploring the Effectiveness of Lightweight Architectures for Face Anti-Spoofing](publication/2023-06-18-Exploring-Face-Anti-Spoofing)
 - **2023-02 Started a Postdoctoral Researcher position at Tecnológico de Monterrey to continue with my research line on biometrics**
