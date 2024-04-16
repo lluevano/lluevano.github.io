@@ -49,7 +49,7 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
 Teaching experience
 ======
   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+    {% include archive-single.html %}
   {% endfor %}</ul>
 
 Education
@@ -57,22 +57,31 @@ Education
 <table class="no_border">
     <tbody>
       <tr>
-            <td><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
-            <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
-            <td>Ph.D. in Computer Science</td>
-            <td>Jan 2019 - Dec 2022</td>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
+            <td><b>Ph.D. in Computer Science</b></td>
+            <td><b>Jan 2019 - Dec 2022</b></td>
         </tr>
         <tr>
-            <td><a href="https://www.stevens.edu/"><img src="/images/stevens_logo.png"></a></td>
-            <td><div>Stevens Institute of Technology</div><div>New Jersey, USA</div></td>
-            <td>M.Sc. in Computer Science</td>
-            <td>Aug. 2016 - May 2018</td>
+          <td colspan="3"><p>Research focused on Face Recognition (Computer Vision). Thesis project: Closing the Gap on Affordable Real-Time Very Low Resolution Face Recognition for Automated Video Surveillance. Published 3 journal articles and 3 conference articles</p></td>
         </tr>
         <tr>
-            <td><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
-            <td><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></td>
-            <td>B.Sc. Computer Science and Technology</td>
-            <td>Aug 2011 - Dec 2015</td>
+            <td rowspan="2"><a href="https://www.stevens.edu/"><img src="/images/stevens_logo.png"></a></td>
+            <td><b><div>Stevens Institute of Technology</div><div>New Jersey, USA</div></b></td>
+            <td><b>M.Sc. in Computer Science</b></td>
+            <td><b>Aug. 2016 - May 2018</b></td>
+        </tr>
+          <td colspan="3"><p>Focus on Computer Vision and Machine Learning. Grade Point Average: 3.7/4.0</p></td>
+        <tr>
+        </tr>
+        <tr>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
+            <td><b>B.Sc. Computer Science and Technology</b></td>
+            <td><b>Aug 2011 - Dec 2015</b></td>
+        </tr>
+        <tr>
+          <td colspan="3"><p>Cumulative average: 92.5/100</p></td>
         </tr>
     </tbody>
 </table>
