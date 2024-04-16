@@ -43,7 +43,7 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         <tr>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
         </tr>
-        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/dell_logo.png"></a></td>
+        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/dell_logo.png" style="padding: 17px;"></a></td>
             <td><b><div>Dell Latin America</div><div>Mexico City, Mexico</div></b></td>
             <td><b>Sr. Analyst, Global Demand & Supply Chain Operations</b></td>
             <td><b>May 2016 - Aug 2016</b></td>
