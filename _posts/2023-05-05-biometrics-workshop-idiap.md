@@ -14,6 +14,6 @@ Furthermore, the Biometrics Security & Privacy (BSP) Group at Idiap showed their
 
 In addition to the sessions, the workshop provided a platform for valuable networking. I had the chance to meet individuals from the European Association for Biometrics (EAB). In this social sense, I was also very pleased to meet again my colleagues from the BSP Group after finishing my internship with them on December 2022, and even had a chance to take a picture.
 
-<img src="/images/idiap-workshop.jpg">
+<img src="/images/posts/2023/idiap_workshop.jpg" width="100%">
 
 It was quite the treat to go back to Martigny!
