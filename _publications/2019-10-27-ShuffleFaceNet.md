@@ -10,7 +10,7 @@ citation: 'Y. Martindez-Díaz, L. S. Luevano, H. Mendez-Vazquez, M. Nicolas-Diaz
 ---
 The recent success of convolutional neural networks has led to the development of a variety of new effective and efficient architectures. However, few of them have been designed for the specific case of face recognition. Inspired on the state-of-the-art ShuffleNetV2 model, a lightweight face architecture is presented in this paper. The proposal, named ShuffleFaceNet, introduces significant modifications in order to improve face recognition accuracy. First, the Global Average Pooling layer is replaced by a Global Depth-wise Convolution layer, and Parametric Rectified Linear Unit is used as a non-linear activation function. Under the same experimental conditions, ShuffleFaceNet achieves significantly superior accuracy than the original ShuffleNetV2, maintaining the same speed and compact storage. In addition, extensive experiments conducted on three challenging benchmark face datasets, show that our proposal improves not only state-of-the-art lightweight models but also very deep face recognition models.
 
-<div style="text-align: center"><img src="/images/publications/2019/ShuffleFaceNet/table.png" width="400px" /></div>
+<div style="text-align: center"><img src="/images/publications/2019/ShuffleFaceNet/table.png" /></div>
 
 [Download paper here](https://doi.org/10.1109/ICCVW.2019.00333)
 
