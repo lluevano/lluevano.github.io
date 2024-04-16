@@ -64,6 +64,8 @@ News:
 
 - **2024-04 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
   - See more: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
+- **2024-03 Presented "Towards a ML-enabled Decentralized Data Vault" for the SOTERIA project at the Forum InCyber at Lille, France**
+  - See slides [here]("files/Forum_In_Cyber_march_2024.pdf")
 - **2024-01 Interview at Tec Sounds radio!**
 - **2023-12 Article at proceedings of the IWAPR out now!**
   - See more at: [Effectiveness of Blind Face Restoration to Boost Face Recognition Performance at Low-Resolution Images](publication/2023-10-03-Effectiveness-Blind-Face-Restoration-FR)
