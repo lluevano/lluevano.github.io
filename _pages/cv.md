@@ -43,7 +43,7 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         <tr>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
         </tr>
-        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/idiap_logo.png"></a></td>
+        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/dell_logo.png"></a></td>
             <td><b><div>Dell Latin America</div><div>Mexico City, Mexico</div></b></td>
             <td><b>Sr. Analyst, Global Demand & Supply Chain Operations</b></td>
             <td><b>May 2016 - Aug 2016</b></td>
@@ -52,6 +52,7 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
           <td colspan="3"><p>Successfully provided inventory visibility/availability to Sales & Support Teams, coordinated order entry support and production availability against inventory forecast to Sales.</p></td>
         </tr>
         <tr>
+            <td><b><div>Dell Latin America</div><div>Mexico City, Mexico</div></b></td>
             <td><b>Intern, Enterprise Merchandising Operations</b></td>
             <td><b>Feb 2015 – May 2016</b></td>
         </tr>
@@ -149,3 +150,8 @@ Awards
 ======
 * 2nd place of José Negrete Martínez Award for Best Doctoral Thesis - November 2023
   * Awarded by the Mexican Society for Artificial Intelligence (SMIA)
+
+Active Memberships
+======
+- IEEE Student Member
+- European Association for Biometrics Member
