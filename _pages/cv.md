@@ -17,10 +17,18 @@ Work experience
 ======
 <table class="no_border">
     <tbody>
+    <tr><td rowspan="2"><a href="https://www.idiap.ch/"><img src="/images/idiap_logo.png"></a></td>
+            <td><b><div>Idiap Research Institute</div><div>Valais, Switzerland</div></b></td>
+            <td><b>Postdoctoral Researcher, Biometrics Security & Privacy Group</b></td>
+            <td><b>June 2024 - Current</b></td>
+        </tr>
+        <tr>
+          <td colspan="3"><p>Research work for the InnoSuisse SENTINEL project on detection of presentation and digital injection attacks for age verification systems.</p></td>
+        </tr>
       <tr><td rowspan="2"><a href="https://www.inria.fr/"><img src="/images/inr_logo_rouge.png"></a></td>
             <td><b><div>Inria</div><div>Rennes, France</div></b></td>
             <td><b>Postdoctoral Researcher, WIDE team</b></td>
-            <td><b>May 2023 - Current</b></td>
+            <td><b>May 2023 - May 2024</b></td>
         </tr>
         <tr>
           <td colspan="3"><p>Collaborated on the European Union-funded SOTERIA project. Research work focused on Privacy
