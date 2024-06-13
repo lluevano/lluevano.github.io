@@ -63,6 +63,7 @@ News:
 ======
 
 - **2024-06 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
+- **2024-06 Joined the Biometrics Security and Privacy Group at the Idiap Research Institute as a Postdoctoral Researcher!!**
 - **2024-04 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
   - See more: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
 - **2024-03 Presented "Towards a ML-enabled Decentralized Data Vault" for the SOTERIA project at the Forum InCyber at Lille, France**
