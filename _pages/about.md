@@ -77,6 +77,7 @@ News:
 - **2023-12 Featured in Conecta Tec article: recognition for my recent award on my PhD thesis work**
   - See note at: [Conecta Tec: "La Sociedad Mexicana de Inteligencia Artificial otorgó el reconocimiento al egresado Tec"](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/egresado-tec-reconocido-por-tesis-doctoral-en-inteligencia)
 - **2023-11 Received the 2nd place of the "José Negrete Martínez" Award for Best Doctoral Thesis, at MICAI 2023, by the Mexican Society for Artificial Intelligence!**
+  - See award [here](files/Premio_tesis_SMIA_2023.pdf)
 - **2023-10 Presented poster of our Extended Abstract on Efficient ViTs for Face Recogntion at the LXAI Workshop at ICCV 2023!**
   - See the poster [here](files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf)
 - **2023-05 Joined the WIDE team at Inria at the University of Rennes in France as a Postdoctoral Researcher!**

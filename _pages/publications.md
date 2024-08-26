@@ -11,7 +11,6 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 
 * Luis S. Luevano, Leonardo Chang, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez, et al.. BinaryFaceNet: A Binarized Approach for Real-Time Very Low Resolution Face Recognition in Video Surveillance Scenarios. 2024. ⟨hal-04393666⟩
 * Luis S. Luevano, Davide Frey. Analyzing Trusted Execution Environments: Comparing Commercial Implementations and Diverse Applications. 2024. ⟨hal-04393667⟩
-* Luis S. Luevano, Martínez-Díaz Yoanna, Méndez-Vázquez Heydi, González-Mendoza Miguel, Davide Frey. SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications. 2024. ⟨hal-04393675⟩
 * Luis S. Luevano, Davide Frey, Marc Sel, Dave Singelee. SOTERIA D5.4 HARDWARE-BASED PRIVACY. 2024. ⟨hal-04393670⟩
 
 <details>

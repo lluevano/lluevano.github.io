@@ -156,10 +156,9 @@ Skills
 
 Awards
 ======
-* 2nd place of José Negrete Martínez Award for Best Doctoral Thesis - November 2023
+* [2nd place of José Negrete Martínez Award for Best Doctoral Thesis](files/Premio_tesis_SMIA_2023.pdf) - November 2023
   * Awarded by the Mexican Society for Artificial Intelligence (SMIA)
 
 Active Memberships
 ======
 - IEEE Student Member
-- European Association for Biometrics Member
