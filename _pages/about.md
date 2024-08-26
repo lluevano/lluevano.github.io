@@ -65,7 +65,7 @@ News:
 - **2024-08 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for presentation and inclusion in the main conference proceedings of ICPR2024!**
   - See more: [SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications](publication/2024-12-01-SwiftFaceFormer)
 - **2024-06 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
-  -  See poster [here](files/SwiftFaceFormer_LXAI_ICML2024_poster.pdf)
+  -  See poster [here](/files/SwiftFaceFormer_LXAI_ICML2024_poster.pdf)
 - **2024-06 Joined the Biometrics Security and Privacy Group at the Idiap Research Institute as a Postdoctoral Researcher!!**
 - **2024-04 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
   - See more: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
@@ -77,9 +77,9 @@ News:
 - **2023-12 Featured in Conecta Tec article: recognition for my recent award on my PhD thesis work**
   - See note at: [Conecta Tec: "La Sociedad Mexicana de Inteligencia Artificial otorgó el reconocimiento al egresado Tec"](https://conecta.tec.mx/es/noticias/estado-de-mexico/educacion/egresado-tec-reconocido-por-tesis-doctoral-en-inteligencia)
 - **2023-11 Received the 2nd place of the "José Negrete Martínez" Award for Best Doctoral Thesis, at MICAI 2023, by the Mexican Society for Artificial Intelligence!**
-  - See award [here](files/Premio_tesis_SMIA_2023.pdf)
+  - See award [here](/files/Premio_tesis_SMIA_2023.pdf)
 - **2023-10 Presented poster of our Extended Abstract on Efficient ViTs for Face Recogntion at the LXAI Workshop at ICCV 2023!**
-  - See the poster [here](files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf)
+  - See the poster [here](/files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf)
 - **2023-05 Joined the WIDE team at Inria at the University of Rennes in France as a Postdoctoral Researcher!**
 - **2023-04 Accepted research article at the 4th Face Anti-Spoofing Workshop and Challenge @ CVPR2023!**
   - See more details here: [Exploring the Effectiveness of Lightweight Architectures for Face Anti-Spoofing](publication/2023-06-18-Exploring-Face-Anti-Spoofing)
