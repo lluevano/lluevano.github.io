@@ -13,7 +13,7 @@ In this paper, we examine how pre-processing and training methods impact on the 
 <div style="text-align: center"><img src="/images/publications/2024/FAS-digital/FAS-digital.png" width="400px" /></div>
 
 
-[Download paper here](https://openaccess.thecvf.com/content/CVPR2024W/FAS2024/html/Luevano_Assessing_the_Performance_of_Efficient_Face_Anti-Spoofing_Detection_Against_Physical_CVPRW_2024_paper.html) </br>
+[Download paper here](https://openaccess.thecvf.com/content/CVPR2024W/FAS2024/html/Luevano_Assessing_the_Performance_of_Efficient_Face_Anti-Spoofing_Detection_Against_Physical_CVPRW_2024_paper.html) <br>
 [GitHub repository](https://github.com/Inria-CENATAV-Tec/Assessing-Efficient-FAS-CVPR2024)
 
 <!-- Recommended citation: Yoanna Martínez-Díaz, Heydi Méndez-Vázquez, Luis S. Luevano, Miguel Gonzalez-Mendoza; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, 2023, pp. 6391-6401 -->
