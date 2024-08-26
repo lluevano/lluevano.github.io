@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Researcher at the Idiap Research Institute in Switzerland. Previously, I worked as a Postdoctoral Research Fellow at the WIDE Team at Inria in the University of Rennes. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices. My latest research works are on Face Anti-Spoofing, and Privacy on Trusted Execution Environments and Decentralized Machine Learning.
+Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Researcher at the Idiap Research Institute in Switzerland. Previously, I worked as a Postdoctoral Research Fellow at the WIDE Team at Inria in the University of Rennes. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices.
 
 Latest research
 ======
@@ -62,7 +62,10 @@ Latest research
 News:
 ======
 
+- **2024-08 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for presentation and inclusion in the main conference proceedings of ICPR2024!**
+  - See more: [SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications](publication/2024-12-01-SwiftFaceFormer)
 - **2024-06 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
+  -  See poster [here](files/SwiftFaceFormer_LXAI_ICML2024_poster.pdf)
 - **2024-06 Joined the Biometrics Security and Privacy Group at the Idiap Research Institute as a Postdoctoral Researcher!!**
 - **2024-04 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
   - See more: [Assessing the Performance of Efficient Face Anti-Spoofing Detection Against Physical and Digital Presentation Attacks](publication/2024-06-17-Assessing-Efficient-FAS-Digital)
