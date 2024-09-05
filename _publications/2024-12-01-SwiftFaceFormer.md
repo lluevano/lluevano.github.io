@@ -20,7 +20,7 @@ With the growing breakthrough of deep learning-based face recognition, the devel
 Latex citation:
 ~~~ BibTex
 @InProceedings{Luevano_2024_SwiftFaceFormer,
-    author    = {Luevano, Luis S. and Mart{\'\i}nez-D{\'\i}az, Yoanna and M\'endez-V\'azquez, Heydi and Gonzalez-Mendoza, Miguel and Frey, Davide},
+    author    = {Luevano, Luis S. and Mart{\'\i}nez-D{\'\i}az, Yoanna and M\'endez-V\'azquez, Heydi and Gonz\'alez-Mendoza, Miguel and Frey, Davide},
     title     = {SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications},
     booktitle = {2024 27th International Conference on Pattern Recognition (ICPR) (to appear)},
     month     = {December},

@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Luis S. Luévano, PhD"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Researcher at Idiap. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning."
+  bio              : "Postdoctoral Researcher at the Idiap Research Institute. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning."
   location         : "Valais, Switzerland"
   employer         : "Idiap"
   pubmed           : 
@@ -99,7 +99,7 @@ author:
   github           : "lluevano"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "luisluevanog"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "luisluevanog"
