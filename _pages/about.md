@@ -64,7 +64,7 @@ Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Ma
 
 - **2024-08 📜 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for presentation and inclusion in the main conference proceedings of ICPR2024!**
   - See more: [SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications](publication/2024-12-01-SwiftFaceFormer)
-- **2024-06 Our work 📜 "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
+- **2024-06 📜 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
   -  See poster [here](/files/SwiftFaceFormer_LXAI_ICML2024_poster.pdf)
 - **2024-06 🧑‍💻 🇨🇭 Joined the Biometrics Security and Privacy Group at the Idiap Research Institute as a Postdoctoral Researcher!!**
 - **2024-04 📜 Face Anti-Spoofing paper accepted at the 5th Face Anti-Spoofing Workshop and Challenge @ CVPR2024!**
