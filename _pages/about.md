@@ -61,7 +61,8 @@ Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Ma
 
 📰 News:
 ======
-
+- **2025-05 📜 🇨🇭 I will be presening a poster and demo for "Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space" at the 2025 [Martigny Biometrics Workshop](https://eab.org/events/program/362?ts=1745625600047).** 
+  - See poster [here](/files/Poster_EAB_Citer_Idiap2025_Luevano.pdf)
 - **2024-08 📜 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for presentation and inclusion in the main conference proceedings of ICPR2024!**
   - See more: [SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications](publication/2024-12-01-SwiftFaceFormer)
 - **2024-06 📜 Our work "SwiftFaceFormer: An Efficient and Lightweight Hybrid Architecture for Accurate Face Recognition Applications" was accepted for an oral presentation at the ICML 2024 LatinX in AI workshop.**
