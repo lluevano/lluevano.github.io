@@ -50,5 +50,7 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 
 <details>
 <summary><strong>Others</strong></summary>
+
 * Luis S. Luevano, Davide Frey, Marc Sel, Dave Singelee. SOTERIA D5.4 HARDWARE-BASED PRIVACY. 2024.⟨[hal-04393670](https://inria.hal.science/hal-04393670)⟩. [Download](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50221d995&appId=PPGMS)
+
 </details>
