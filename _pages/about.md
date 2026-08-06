@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as a Postdoctal Researcher at the Idiap Research Institute in Switzerland. Previously, I worked as a Postdoctoral Research Fellow at the WIDE Team at Inria in the University of Rennes. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices.
+Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as an Assitant Professor at the Autonomous University of Barcelona (UAB) in Barcelona, Spain. Previously, I worked as a Postdoctoral Researcher at the Biometrics Security & Privacy group at Idiap in Switzerland and at the WIDE Team at Inria in the University of Rennes in France. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices.
 
 🔬 Latest research
 ======
@@ -61,7 +61,14 @@ Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Ma
 
 📰 News:
 ======
-- **2025-07 📜 Our "Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space" was accepted at IJCB 2025 !** 
+- **2026-08 ❗Started position as Assistant Professor at the [Autonomous University of Barcelona (UAB)](https://uab.cat/) 🇪🇸👨🏻‍🏫**
+- **2026-07 📜 Three of our papers were accepted at IJCB 2026 ! 🔥** 
+  - Main conference:
+    - [GaitFace: A Multimodal Dataset for Long-Range Person Identification](publication/2026-09-01-GaitFace)
+    - [DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control](publication/2026-09-01-DriveFace)
+  - Focus Session "Generative AI for Fair and Secure Biometrics under Limited Data":
+    - [Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap](publication/2026-09-01-Synthetic-LRFR)
+- **2025-07 📜 Our paper "Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space" was accepted at IJCB 2025 !** 
   - See paper page [here](publication/2025-09-08-ID-preserving-aging)
 - **2025-05 📜 🇨🇭 I will be presening a poster and demo for "Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space" at the 2025 [Martigny Biometrics Workshop](https://eab.org/events/program/362?ts=1745625600047).** 
   - See poster [here](/files/Poster_EAB_Citer_Idiap2025_Luevano.pdf)
