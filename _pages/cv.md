@@ -9,7 +9,7 @@ redirect_from:
 
 Objective
 ======
-To make use of my strong analytical skills along with my graduate experience in modern Artificial Intelligence techniques, solving the IT industry’s most challenging problems involving research for complex technology projects of high social and economic impact.
+To advance Computer Vision and Biometrics research that translates into deployable technology, applying strong analytical skills and international academic and applied research experience to face recognition under real-world constraints — low resolution, long range, cross-spectral acquisition, and limited data — as well as to anti-spoofing, privacy, and decentralized machine learning, and to contribute to problems of high social and scientific impact through research, collaboration, teaching, and the supervision of new researchers.
 
 {% include base_path %}
 
@@ -17,13 +17,21 @@ Work experience
 ======
 <table class="no_border">
     <tbody>
+    <tr><td rowspan="2"><a href="https://www.uab.cat/"><img src="/images/logo_uab.svg"></a></td>
+            <td><b><div>Universitat Autònoma de Barcelona (UAB)</div><div>Barcelona, Spain</div></b></td>
+            <td><b>Assistant Professor, Department of Computer Science</b></td>
+            <td><b>August 2026 - Current</b></td>
+        </tr>
+        <tr>
+          <td colspan="3"><p>Teaching duties at the Department of Computer Science and research on Computer Vision & AI</p></td>
+        </tr>
     <tr><td rowspan="2"><a href="https://www.idiap.ch/"><img src="/images/idiap_logo.png"></a></td>
             <td><b><div>Idiap Research Institute</div><div>Valais, Switzerland</div></b></td>
             <td><b>Postdoctoral Researcher, Biometrics Security & Privacy Group</b></td>
-            <td><b>June 2024 - Current</b></td>
+            <td><b>June 2024 - July 2026</b></td>
         </tr>
         <tr>
-          <td colspan="3"><p>Research work for the InnoSuisse SENTINEL project on detection of presentation and digital injection attacks for age verification systems.</p></td>
+          <td colspan="3"><p>Research work for the InnoSuisse SENTINEL project on detection of presentation and digital injection attacks for age verification systems. Face and gait data collection on multiple modalities (RGB, NIR, long distance) and research on long distance face and gait recognition on the EU Horizon PopEye and CarMen projects.</p></td>
         </tr>
       <tr><td rowspan="2"><a href="https://www.inria.fr/"><img src="/images/inr_logo_rouge.png"></a></td>
             <td><b><div>Inria</div><div>Rennes, France</div></b></td>
