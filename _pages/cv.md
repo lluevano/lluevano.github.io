@@ -9,7 +9,7 @@ redirect_from:
 
 Objective
 ======
-To advance Computer Vision and Biometrics research that translates into deployable technology, applying strong analytical skills and international academic and applied research experience to face recognition under real-world constraints — low resolution, long range, cross-spectral acquisition, and limited data — as well as to anti-spoofing, privacy, and decentralized machine learning, and to contribute to problems of high social and scientific impact through research, collaboration, teaching, and the supervision of new researchers.
+To advance Computer Vision and Biometrics research that translates into deployable technology, applying strong analytical skills and international academic and applied research experience to face recognition under real-world settings such as: low resolution, long range, cross-spectral acquisition, and limited data, as well as anti-spoofing, privacy, and decentralized machine learning, and to contribute to problems of high social and scientific impact through research, collaboration, teaching, and the supervision of new researchers.
 
 {% include base_path %}
 
