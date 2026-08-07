@@ -41,8 +41,8 @@ html[data-theme="dark"] {
     --global-footer-bg-color            : #{$footer};
     --global-border-color               : #{$light-primary-color};
     --global-dark-border-color          : #{$background-light};
-    --global-code-background-color      : #fafafa;
-    --global-code-text-color            : #{$darker-primary-color};
+    --global-code-background-color      : #{mix(#000, $background, 35%)};
+    --global-code-text-color            : #{$text};
     --global-fig-caption-color          : #{$light-primary-color};
     --global-link-color                 : #{$link};
     --global-link-color-hover           : #{$link-dark};
