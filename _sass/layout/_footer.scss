@@ -17,8 +17,10 @@
   /* keep footer in normal document flow so custom widgets do not overlap content */
   height: auto;
 
-  /* keep the footer on the bottom of the page */
-  position: fixed;
+  /* keep the footer on the bottom of the page, but in the document rather than
+     pinned to the viewport, so it only comes into view at the end of the page
+     and does not overlay the fixed author sidebar */
+  position: absolute;
   bottom: 0;
 
   -webkit-animation: intro 0.3s both;
