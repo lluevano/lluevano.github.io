@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 locale                   : "en-US"
 title                    : "Luis Santiago Luévano García"
 title_separator          : "-"
