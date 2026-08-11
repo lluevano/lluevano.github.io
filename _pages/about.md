@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as an Assitant Professor at the Autonomous University of Barcelona (UAB) in Barcelona, Spain. Previously, I worked as a Postdoctoral Researcher at the Biometrics Security & Privacy group at Idiap in Switzerland and at the WIDE Team at Inria in the University of Rennes in France. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices.
+Researcher focused in Computer Vision, Biometrics, Privacy, and Decentralized Machine Learning. I am currently working as an Assistant Professor at the Autonomous University of Barcelona (UAB) in Barcelona, Spain. Previously, I worked as a Postdoctoral Researcher at the Biometrics Security & Privacy group at the Idiap Research Institute in Switzerland and at the WIDE Team at Inria in the University of Rennes in France. My current research interests are Face Recognition, Face Anti-Spoofing, Privacy, and Decentralized Machine Learning. My PhD thesis work was on Binarized Neural Networks for Very Low Resolution Face Recognition for deployment on embedded devices.
 
 🔬 Latest research
 ======
