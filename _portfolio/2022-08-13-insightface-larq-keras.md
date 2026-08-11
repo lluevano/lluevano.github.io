@@ -1,5 +1,5 @@
 ---
-title: "InsightFace LARQ Keras code"
+title: "BinaryFaceNet: Low Resolution Face Recognition on Binarized Networks"
 excerpt: "Base code with available implementation of BinaryFaceNet, an efficient approach for Very Low Resolution Face Recognition using Binary Neural Networks, an outcome of my PhD Thesis project. <br/> [Link to Repository](https://github.com/lluevano/insightface_larq_keras) <br/><img src='/images/binaryfacenet.png' width='500px'>"
 collection: portfolio
 ---
