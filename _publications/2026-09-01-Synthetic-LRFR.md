@@ -18,7 +18,9 @@ Our main conclusions are:
 
 Accepted at the [Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data](https://ijcb2026.ieee-biometrics.org/generative-ai-for-fair-and-secure-biometrics-under-limited-data/) at IJCB 2026. Camera-ready and project page coming soon.
 
-[Project page and pipeline](https://idiap.ch/paper/synth-lrfr) (coming soon)
+[Project page](https://idiap.ch/paper/synth-lrfr) <br>
+[Paper on arXiv](https://arxiv.org/abs/2608.06580)
+[Code details](https://lluevano.github.io/portfolio/2026-09-01-synthlrfr_code/)
 
 Latex citation:
 ~~~ BibTex
