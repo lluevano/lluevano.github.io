@@ -22,6 +22,8 @@ Highlights:
 [Paper](https://publications.idiap.ch/attachments/papers/2026/George_IJCB2026_2026.pdf) <br>
 [arXiv](https://arxiv.org/pdf/2607.13515) <br>
 [Project page](https://www.idiap.ch/paper/driveface/) <br>
+[Poster](/files/poster.ijcb2026.driveface.pdf) <br>
+[Spotlight slides](/files/slides.ijcb2026.driveface.pdf) <br>
 [Code](https://github.com/idiap/DriveFace) <br>
 [Dataset](https://www.idiap.ch/en/scientific-research/data/driveface)
 

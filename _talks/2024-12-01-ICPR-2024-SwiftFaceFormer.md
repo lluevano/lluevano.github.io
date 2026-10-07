@@ -8,7 +8,8 @@ date: 2024-12-01
 location: "Kolkata, India (presented remotely)"
 ---
 
-Presented virtually through a recorded video; the poster was displayed at the conference venue.
+SwiftFaceFormer is an efficient and lightweight hybrid architecture that combines convolutional and transformer components for accurate face recognition on resource-constrained devices. I presented the paper virtually with a recorded video; the poster was displayed at the conference venue.
 
 [Poster](/files/ICPR24_SwiftFaceFormer_poster.pdf) <br>
-[Paper page](/publication/2024-12-01-SwiftFaceFormer)
+[Paper page](/publication/2024-12-01-SwiftFaceFormer) <br>
+[Code](https://github.com/Inria-CENATAV-Tec/SwiftFaceFormer)

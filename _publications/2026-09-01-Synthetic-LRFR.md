@@ -17,10 +17,11 @@ Our main conclusions are:
 - A learned, identity-aware super-resolution front-end never beats simply feeding a strong frozen backbone the aligned LR image, so a direct-feed baseline should be reported before any restoration or translation pipeline is claimed to help.
 - The average-accuracy gains from LR-aware synthesis do not reduce demographic bias: the FMR disparity on RFW shows no consistent improvement.
 
-Accepted at the [Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data](https://ijcb2026.ieee-biometrics.org/generative-ai-for-fair-and-secure-biometrics-under-limited-data/) at IJCB 2026. Camera-ready and project page coming soon.
+Accepted at the [Focus Session on Generative AI for Fair and Secure Biometrics under Limited Data](https://ijcb2026.ieee-biometrics.org/generative-ai-for-fair-and-secure-biometrics-under-limited-data/) at IJCB 2026.
 
 [Project page](https://idiap.ch/paper/synth-lrfr) <br>
 [Paper on arXiv](https://arxiv.org/abs/2608.06580) <br>
+[Poster](/files/poster.ijcb2026.synth-lrfr.pdf) <br>
 [Code details](https://lluevano.github.io/portfolio/2026-09-01-synthlrfr_code/)
 
 Latex citation:
