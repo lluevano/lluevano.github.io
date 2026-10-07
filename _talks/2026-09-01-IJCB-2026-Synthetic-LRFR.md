@@ -19,6 +19,7 @@ Surveillance face recognition often has to match faces of only 16–32 pixels ag
 
 Authors: Luis S. Luevano, Ünsal Öztürk, Hatef Otroshi Shahreza, Anjith George, Sébastien Marcel.
 
+[Slides](/files/slides.ijcb2026.synth-lrfr.pdf) <br>
 [Poster](/files/poster.ijcb2026.synth-lrfr.pdf) <br>
 [Paper page](/publication/2026-09-01-Synthetic-LRFR) <br>
 [Project page and code](https://idiap.ch/paper/synth-lrfr)

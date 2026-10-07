@@ -21,6 +21,7 @@ Accepted at the [Focus Session on Generative AI for Fair and Secure Biometrics u
 
 [Project page](https://idiap.ch/paper/synth-lrfr) <br>
 [Paper on arXiv](https://arxiv.org/abs/2608.06580) <br>
+[Oral presentation slides](/files/slides.ijcb2026.synth-lrfr.pdf) <br>
 [Poster](/files/poster.ijcb2026.synth-lrfr.pdf) <br>
 [Code details](https://lluevano.github.io/portfolio/2026-09-01-synthlrfr_code/)
 
