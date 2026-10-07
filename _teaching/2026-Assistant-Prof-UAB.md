@@ -5,7 +5,7 @@ type: "Undergraduate & Graduate courses"
 permalink: /teaching/2026-Assistant-Prof-UAB
 venue: "UAB Campus Bellaterra, Computer Science Department"
 date: 2026-08-01
-location: "Barcleona, Spain"
+location: "Barcelona, Spain"
 ---
 
 Created class contents, lecturing, grading, and tutoring students at the Computer Science Department at UAB for undergraduate and graduate programs.
