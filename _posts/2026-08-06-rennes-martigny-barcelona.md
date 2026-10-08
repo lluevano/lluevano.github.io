@@ -8,6 +8,8 @@ tags:
   - Idiap
   - UAB
   - Research
+header:
+  teaser: 'posts/2026/uab_sign.jpg'
 ---
 
 I have just started as an Assistant Professor at the Universitat Autònoma de Barcelona, which seems like a good moment to look back on the last three years, from Rennes to Martigny and now Barcelona.

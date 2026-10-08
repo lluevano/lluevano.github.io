@@ -9,11 +9,13 @@ redirect_from:
 
 Research interests
 ======
-To advance Computer Vision and Biometrics research that translates into deployable technology, applying strong analytical skills and international academic and applied research experience to face recognition under real-world settings such as: low resolution, long range, cross-spectral acquisition, and limited data, as well as anti-spoofing, privacy, and decentralized machine learning, and to contribute to problems of high social and scientific impact through research, collaboration, teaching, and the supervision of new researchers.
+* Face recognition under real-world conditions: very low resolution, long range, and cross-spectral (RGB/NIR) capture, often with limited training data.
+* Efficient and lightweight models for biometrics on edge devices.
+* Face anti-spoofing (presentation and injection attack detection) and privacy in biometric systems.
 
 {% include base_path %}
 
-Work experience
+Academic and research experience
 ======
 <table class="no_border">
     <tbody>
@@ -43,7 +45,7 @@ Work experience
 on Decentralized Machine Learning and Trusted Execution Environments for data-centric scenarios.</p></td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png" class="logo-square"></a></td>
             <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
             <td><b>Postdoctoral Researcher</b></td>
             <td><b>Feb 2023 - July 2023</b></td>
@@ -59,7 +61,14 @@ on Decentralized Machine Learning and Trusted Execution Environments for data-ce
         <tr>
           <td colspan="3"><p>Authored code for training and evaluating state of the art and novel original method proposals for very low resolution face recognition on frameworks PyTorch and Bob using the internal computing infrastructure. Collaborated with fellow researchers at the group to achieve internal research objectives.</p></td>
         </tr>
-        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/dell_logo.png" style="padding: 17px;"></a></td>
+    </tbody>
+</table>
+
+Industry experience
+======
+<table class="no_border">
+    <tbody>
+        <tr><td rowspan="4"><a href="https://www.dell.com.mx/"><img src="/images/dell_logo.png" class="logo-square" style="padding: 17px;"></a></td>
             <td><b><div>Dell Latin America</div><div>Mexico City, Mexico</div></b></td>
             <td><b>Sr. Analyst, Global Demand & Supply Chain Operations</b></td>
             <td><b>May 2016 - Aug 2016</b></td>
@@ -96,7 +105,7 @@ Education
 <table class="no_border">
     <tbody>
       <tr>
-            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png" class="logo-square"></a></td>
             <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
             <td><b>Ph.D. in Computer Science</b></td>
             <td><b>Jan 2019 - Dec 2022</b></td>
@@ -110,11 +119,11 @@ Education
             <td><b>M.Sc. in Computer Science</b></td>
             <td><b>Aug. 2016 - May 2018</b></td>
         </tr>
-          <td colspan="3"><p>Focus on Computer Vision and Machine Learning. Grade Point Average: 3.7/4.0</p></td>
         <tr>
+          <td colspan="3"><p>Focus on Computer Vision and Machine Learning. Grade Point Average: 3.7/4.0</p></td>
         </tr>
         <tr>
-            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png"></a></td>
+            <td rowspan="2"><a href="https://tec.mx"><img src="/images/tec_logo.png" class="logo-square"></a></td>
             <td><b><div>Tecnológico de Monterrey</div><div>State of Mexico, Mexico</div></b></td>
             <td><b>B.Sc. Computer Science and Technology</b></td>
             <td><b>Aug 2011 - Dec 2015</b></td>
@@ -125,19 +134,6 @@ Education
     </tbody>
 </table>
 
-<style>
-  .no_border, .no_border tr, .no_border td{
-    border: none;
-    text-align:center;
-  }
-  .no_border img{
-    max-width: 130px;
-    height:auto;
-  }
-  .no_border td p{
-    text-align:left;
-  }
-</style>
 
 Research projects
 ======
@@ -186,12 +182,12 @@ Skills
 * Computer Vision
   * Experience working on filtering, keypoint matching, depth map extraction, 3D point cloud extraction, space carving, image segmentation, convolutional neural networks, image recognition, face anti-spoofing, face recognition, low-resolution and cross-spectral face recognition, gait recognition, face image generation and editing (GANs), and biometric dataset collection.
 * Natural Language Processing
-  * Text Mining using SAS, Dynamic Topic Modeling, frequency scores, Trax for ANNs, LSTMs, Transformers, and BERT, and wave2vec on PyTorch.
+  * Transformers, BERT, LSTMs, and wav2vec in PyTorch.
 * Machine Learning:
   * Experience working on regression, maximum likelihood & Bayesian estimation, support vector machines, decision trees, random forests, neural networks.
 * Programming languages:
   * Proficiency in C/C++, Java, Python, JavaScript, Matlab.
-  * Competent in R, PLSQL, Ruby, Clojure, Erlang, Visual Basic.
+  * Competent in R, SQL and PL/SQL.
 * Libraries and frameworks:
   * OpenCV, PyTorch, Bob (Idiap biometrics toolkit), TensorFlow, Keras, MxNet, Trax, Pandas, Sklearn, SciPy, NumPy.
 * Tools and infrastructure:

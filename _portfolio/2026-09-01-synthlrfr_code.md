@@ -1,6 +1,9 @@
 ---
 title: "Code release for the paper 'Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap'"
-excerpt: "This is the code repository release for the paper 'Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap' accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026. <br/> [Link to Repository](https://gitlab.idiap.ch/biometric/code.ijcb2026.synth-lrfr) <br/><img src='/images/publications/2026/teaser_synth_lrfr.png' width='200px'>"
+excerpt: "This is the code repository release for the paper 'Improving Low-Resolution Face Recognition under Limited Data: How Synthetic Data Generation Can Close the Domain Gap' accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2026."
+codeurl: 'https://github.com/idiap/Synthetic-Data-Generation-for-Low-Resolution-Face-Recognition'
+header:
+  teaser: 'publications/2026/teaser_synth_lrfr.png'
 collection: portfolio
 ---
 

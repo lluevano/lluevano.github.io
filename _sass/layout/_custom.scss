@@ -1,0 +1,161 @@
+/* ==========================================================================
+   Site-specific styles
+   ========================================================================== */
+
+/* Single-layout pages (homepage, papers, posts): use the same content
+   width as archive pages instead of reserving an empty right column */
+
+.page {
+  @include breakpoint($large) {
+    padding-right: 0;
+  }
+}
+
+/* List items (publications, blog posts): thumbnail, title and venue in one
+   row; abstract, citation and links below at full width */
+
+.item-head {
+  display: flex;
+  gap: 1.25em;
+  align-items: center;
+}
+
+.item-head-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.item-thumb {
+  flex: 0 0 160px;
+
+  img {
+    display: block;
+    width: 160px;
+    height: 110px;
+    object-fit: contain;
+    background: #fff;
+    border: 1px solid var(--global-border-color);
+    border-radius: 4px;
+  }
+}
+
+@media (max-width: 600px) {
+  .item-head {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+  }
+
+  .item-thumb {
+    flex-basis: auto;
+    margin-top: 1em;
+
+    img {
+      width: 100%;
+      height: auto;
+      max-height: 200px;
+    }
+  }
+}
+
+.pub-citation {
+  font-size: $type-size-6;
+}
+
+/* keep abstracts short in lists; the full text is on the item's page */
+.has-thumb .archive__item-excerpt p {
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pub-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4em;
+}
+
+.pub-btn {
+  display: inline-block;
+  padding: 0.15em 0.6em;
+  font-size: 0.75em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+  text-decoration: none !important;
+  white-space: nowrap;
+
+  &:hover {
+    border-color: var(--global-link-color);
+  }
+}
+
+/* CV tables with institution logos */
+
+.no_border,
+.no_border tr,
+.no_border td {
+  border: none;
+  text-align: center;
+}
+
+.no_border img {
+  max-width: 170px;
+  height: auto;
+}
+
+.no_border td[rowspan] {
+  width: 190px;
+}
+
+/* square logos look larger than wide ones at the same width */
+.no_border img.logo-square {
+  max-width: 120px;
+}
+
+.no_border td p {
+  text-align: left;
+}
+
+@media (max-width: 600px) {
+  .no_border,
+  .no_border tbody,
+  .no_border tr,
+  .no_border td {
+    display: block;
+    width: 100%;
+  }
+
+  .no_border td {
+    text-align: left;
+    padding: 0.1em 0;
+  }
+
+  .no_border td[rowspan] {
+    padding-top: 1.2em;
+  }
+
+  .no_border td[rowspan] {
+    width: 100%;
+  }
+
+  .no_border img {
+    max-width: 130px;
+    padding: 0 !important;
+  }
+
+  .no_border img.logo-square {
+    max-width: 80px;
+  }
+}
+
+/* Talks: type label */
+
+.talk-type {
+  display: inline-block;
+  padding: 0.05em 0.5em;
+  margin-right: 0.4em;
+  font-size: 0.75em;
+  border: 1px solid var(--global-border-color);
+  border-radius: 4px;
+}

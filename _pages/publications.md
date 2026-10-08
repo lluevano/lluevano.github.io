@@ -12,13 +12,9 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
 * Luis S. Luevano, Leonardo Chang, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez, et al.. BinaryFaceNet: A Binarized Approach for Real-Time Very Low Resolution Face Recognition in Video Surveillance Scenarios. 2024. ⟨hal-04393666⟩
 * Luis S. Luevano, Davide Frey. Analyzing Trusted Execution Environments: Comparing Commercial Implementations and Diverse Applications. 2024. ⟨hal-04393667⟩
 
-<details>
-<summary><strong>Extended abstracts</strong></summary>
+## Extended abstracts
 
-<ul>
-<li>Luis S. Luevano, Davide Frey. Towards Large-Scale Privacy-Preserving Decentralized Machine Learning-Based Computer Vision Systems. Submitted to LXAI@CVPR2024. 2024.</li>
-</ul>
-</details>
+* Luis S. Luevano, Davide Frey. "Towards Large-Scale Privacy-Preserving Decentralized Machine Learning-Based Computer Vision Systems". Submitted to the LatinX in AI Workshop at CVPR 2024 (not accepted). 2024.
 
 ## Peer-reviewed publications
 
@@ -34,23 +30,10 @@ See my publication list also on <u><a href="https://scholar.google.com/citations
   {% include archive-single.html %}
 {% endfor %}
 
-<details>
-<summary><strong>Peer-reviewed extended abstracts</strong></summary>
+## Peer-reviewed extended abstracts
 
-<ul>
-<li>Luis S. Luevano, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez. Exploring the Potential for Real-Time Vision Transformer-Level Precision on Face Recognition Scenarios through Binarization on Embedded Systems.  ICCVW 2023 - IEEE/CVF International Conference on Computer Vision Workshops, Oct 2023, Paris, France. 2023. (hal-04393662)
-<ul>
-<li><a href="/files/ICCV23_LXAI_ExtendedAbstract.pdf">Extended abstract</a></li>
-<li><a href="/files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf">Poster</a></li>
-</ul>
-</li>
-</ul>
+* Luis S. Luevano, Miguel González-Mendoza, Yoanna Martínez-Díaz, Heydi Méndez-Vázquez. "Exploring the Potential for Real-Time Vision Transformer-Level Precision on Face Recognition Scenarios through Binarization on Embedded Systems". LatinX in AI Workshop at ICCV 2023 - IEEE/CVF International Conference on Computer Vision Workshops, Paris, France, October 2023. [Extended abstract](/files/ICCV23_LXAI_ExtendedAbstract.pdf), [Poster](/files/LUEVANO-GARCIA-Luis-Santiago-WIDE-ICCVW2023-Poster-LXAI.pdf), [hal-04393662](https://inria.hal.science/hal-04393662)
 
-</details>
+## Project deliverables
 
-<details>
-<summary><strong>Others</strong></summary>
-
-* Luis S. Luevano, Davide Frey, Marc Sel, Dave Singelee. SOTERIA D5.4 HARDWARE-BASED PRIVACY. 2024.⟨[hal-04393670](https://inria.hal.science/hal-04393670)⟩. [Download](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50221d995&appId=PPGMS)
-
-</details>
+* Luis S. Luevano, Davide Frey, Marc Sel, Dave Singelee. "SOTERIA D5.4 Hardware-Based Privacy". EU H2020 SOTERIA project, 2024. [Official document](https://ec.europa.eu/research/participants/documents/downloadPublic?documentIds=080166e50221d995&appId=PPGMS), [hal-04393670](https://inria.hal.science/hal-04393670)

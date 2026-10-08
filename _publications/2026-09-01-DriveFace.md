@@ -8,6 +8,13 @@ date: 2026-09-01
 venue: 'IEEE International Joint Conference on Biometrics (IJCB) 2026'
 paperurl: 'https://publications.idiap.ch/attachments/papers/2026/George_IJCB2026_2026.pdf'
 citation: 'Anjith George, Luis S. Luevano, Alain Komaty, Zeina Al Amine, Vidit Vidit, Sébastien Marcel. "DriveFace: A Cross-Spectral Through-Glass Face Dataset for On-the-Move Vehicular Border Control". IEEE International Joint Conference on Biometrics (IJCB) 2026.'
+header:
+  teaser: 'publications/2026/teaser_driveface.jpg'
+slidesurl: '/files/slides.ijcb2026.driveface.pdf'
+posterurl: '/files/poster.ijcb2026.driveface.pdf'
+codeurl: 'https://github.com/idiap/DriveFace'
+dataseturl: 'https://www.idiap.ch/en/scientific-research/data/driveface'
+projecturl: 'https://www.idiap.ch/paper/driveface/'
 ---
 The continuous growth in cross-border mobility places increasing pressure on existing border control infrastructures, motivating *on-the-move* biometric authentication, in which travellers are identified directly inside their vehicles at checkpoints. Face recognition is well-suited to this setting, as it can be acquired passively and at a distance. Its development, however, is hindered by the lack of representative datasets: existing benchmarks are collected in controlled environments and do not capture the challenges inherent to vehicular acquisition, including motion blur, variable illumination, occlusions, and cross-spectral enrollment. To address this gap, we introduce **DriveFace**, a dataset for on-the-move face recognition in border-control scenarios, comprising NIR vehicle-crossing videos paired with smartphone-based pre-enrollment data. Baseline evaluations with state-of-the-art models show clear performance limitations under these realistic conditions, highlighting the need for dedicated methods to advance the field.
 

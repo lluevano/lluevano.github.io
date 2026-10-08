@@ -1,6 +1,9 @@
 ---
 title: "Code release for the paper 'Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space'"
-excerpt: "This is the code repository release for the paper 'Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space' accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2025. <br/> [Link to Repository](https://gitlab.idiap.ch/biometric/code.ijcb2025.agesynth) <br/><img src='/images/publications/2025/teaser_agesynth.png' width='200px'>"
+excerpt: "This is the code repository release for the paper 'Identity-Preserving Aging and De-Aging of Faces in the StyleGAN Latent Space' accepted at the IEEE International Joint Conference on Biometrics (IJCB) 2025."
+codeurl: 'https://gitlab.idiap.ch/biometric/code.ijcb2025.agesynth'
+header:
+  teaser: 'publications/2025/teaser_agesynth.png'
 collection: portfolio
 ---
 

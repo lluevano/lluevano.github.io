@@ -1,6 +1,9 @@
 ---
 title: "Custom LightFace Anti-Spoofing"
-excerpt: "This is a forked base code of Lightweight Face Anti-Spoofing modified for patching it to Python 3.10 and adding my custom networks and evaluation code. <br/> [Link to Repository](https://github.com/lluevano/Custom-Lightweight-Face-Anti-Spoofing) <br/><img src='/images/anti_spoofing.png' width='500px'>"
+excerpt: "This is a forked base code of Lightweight Face Anti-Spoofing modified for patching it to Python 3.10 and adding my custom networks and evaluation code."
+codeurl: 'https://github.com/lluevano/Custom-Lightweight-Face-Anti-Spoofing'
+header:
+  teaser: 'anti_spoofing.png'
 collection: portfolio
 ---
 

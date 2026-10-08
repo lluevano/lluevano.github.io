@@ -6,6 +6,8 @@ tags:
   - Biometrics
   - Workshop
   - Idiap
+header:
+  teaser: 'posts/2023/idiap_workshop.jpg'
 ---
 
 The EAB & CiTER Biometrics Workshop was held at Idiap in April 2023. I had the privilege to attend with one of my PhD Thesis supervisor, Dr. Miguel González. At a recent research workshop, I found quite interesting the discussions on Biometric Template Protection—a topic previously unexplored by me. Discussions around ISO regulations concerning biometric templates and their properties were particularly useful to me, and also presented a promising avenue for future exploration.
