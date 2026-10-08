@@ -9,9 +9,12 @@ redirect_from:
 
 Research interests
 ======
-* Face recognition under real-world conditions: very low resolution, long range, and cross-spectral (RGB/NIR) capture, often with limited training data.
-* Efficient and lightweight models for biometrics on edge devices.
-* Face anti-spoofing (presentation and injection attack detection) and privacy in biometric systems.
+* Person recognition under real-world conditions: face and gait at very low resolution, long range and cross-spectral (RGB/NIR) capture, often with limited training data.
+* Efficient architectures for edge devices: binarized networks, self-attention, hybrid CNN–Transformer designs, and distillation from large teacher architectures into compact student models.
+* Security of vision systems: presentation and digital injection attack detection that generalizes to unseen attacks, backdoor and adversarial robustness, and detection of generated media.
+* Privacy in Machine Learning applications: analyzing training sample leakage through membership inference and image inversion from ML models, and defenses on compact models and decentralized deployments.
+* Few-shot learning across architectures, from CNNs to Transformers, vision–language models and LLMs, with applications such as activity recognition and text-to-video search.
+* Controllable generative models for realistic degradations, ages and capture conditions, judged by whether they improve real-world recognition rather than by visual quality.
 
 {% include base_path %}
 
