@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Computer Science, Universitat Autònoma de Barcelona (UAB). I work on person recognition under real-world conditions, with face and gait at very low resolution, long range and cross-spectral capture, using efficient models that run on edge devices. I also work on the security and privacy of vision systems, from face anti-spoofing to what machine learning models leak about their training data, and I am exploring few-shot learning across architectures and generative models that improve real-world recognition. Previously I was a postdoctoral researcher at Idiap (Switzerland) and Inria (France), and I received my PhD from Tecnológico de Monterrey.
+I am an Assistant Professor in the Department of Computer Science at the Universitat Autònoma de Barcelona (UAB), where I teach and do research in Computer Vision and AI. Most of my work is on biometric applications, such as person recognition in challenging real-world scenarios (tiny, distant, or infrared faces) with models small enough to run on edge devices, and keeping those systems secure and private.
+
+I did my B.Sc. and later Ph.D. in Computer Science in Mexico at Tecnológico de Monterrey, with my M.Sc. in Computer Science at Stevens Institute of Technology in New Jersey. I also have industry experience from my time at Dell before doing my Master's. My Ph.D. thesis on real-time very low resolution face recognition received second place in the Mexican Society for Artificial Intelligence's award for best doctoral thesis. Before coming to Barcelona, I was a Postdoctoral Researcher at Tecnológico de Monterrey, at Inria in Rennes, France, and at the Idiap Research Institute in Martigny, Switzerland. I have also mentored undergraduate research through the Google CSR program with LatinX in AI, and I speak Spanish, English, French, Japanese, a bit of German, and I'm currently learning Catalan.
 
 🔬 Latest research
 ======

@@ -196,7 +196,7 @@ Skills
 * Tools and infrastructure:
   * Git, Linux, Docker, HPC clusters and job schedulers (SGE, Slurm), Jupyter, LaTeX.
 * Languages:
-  * Spanish (native), English (proficient, TOEFL iBT score: 101/120 points), French (fluent), Japanese (fluent), German (basic)
+  * Spanish (native), English (proficient, TOEFL iBT score: 101/120 points), French (fluent), Japanese (fluent), German (basic), Catalan (basic)
 
 Talks and presentations
 ======
